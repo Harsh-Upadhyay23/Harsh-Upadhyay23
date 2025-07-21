@@ -62,8 +62,5 @@ Real-time multilingual communication platform for real estate clients & agents. 
 
 - 📦 **Second Ed Resource Hub**  
 E-commerce web app for buying & selling second-hand study materials, streamlining access to affordable educational resources.
-<img src="https://raw.githubusercontent.com/Harsh-Upadhyay23/Harsh-Upadhyay23/output/snake.svg" alt="Snake animation" />
-
-###
 ---
 

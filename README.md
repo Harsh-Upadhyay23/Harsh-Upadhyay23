@@ -9,7 +9,6 @@ With a CGPA of 8.5 , I am passionate about building scalable web applications an
 - 🌱 I’m learning **AI, Data Structures, and Advanced Backend Development**
 - 💬 Ask me about **MERN Stack, Machine Learning Integration in Web Apps, and SQL/MongoDB**
 - 📫 Reach me at **upadhyayharsh435@gmail.com**
-- ⚡ Fun fact: I'm also a **Kabaddi team runner-up** in my college tournament.
 
 ---
 

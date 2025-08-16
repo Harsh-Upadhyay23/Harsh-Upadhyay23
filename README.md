@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Upadhyay</h1>
 
-<h3 align="center">I’m a MERN Stack Developer currently pursuing my Bachelor's in Computer Engineering at Vidyavardhini's College of Engineering and Technology, Mumbai (2022–2026).  
-With a CGPA of 8.5 , I am passionate about building scalable web applications and solving real-world problems through technology.</h3>
+<h3 align="center">I’m a MERN Stack Developer currently pursuing my Bachelor's in Computer Engineering at Vidyavardhini's College of Engineering and Technology, Mumbai (2022–2026).I am passionate about building scalable web applications and solving real-world problems through technology.</h3>
 
 ---
 

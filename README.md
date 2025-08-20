@@ -49,6 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Upadhyay23&show_icons=true&theme=radical" alt="Harsh's GitHub stats"/>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Upadhyay23&theme=radical" alt="GitHub Streak"/>
+  <br />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Upadhyay23&layout=compact&theme=radical&langs_count=10
+" alt="GitHub Top Languages Stats"/>
 </p>
 
 ---

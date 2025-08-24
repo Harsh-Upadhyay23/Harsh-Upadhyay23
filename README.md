@@ -68,41 +68,79 @@ console.log("Building the future, one commit at a time! 🚀");
 
 <br/>
 
-## 🛠️ Tech Arsenal
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" /> Tech Arsenal & Skills
 
 <div align="center">
 
-### 💻 Programming Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
-</div>
+<!-- Animated Tech Stack Container -->
+<table>
+<tr>
+<td align="center">
 
-### 🎨 Frontend Technologies  
-<div>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-</div>
-
-### ⚙️ Backend & Database
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</div>
-
-### 🤖 AI/ML & Data Science
-<div>
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
-</div>
-
-### 🛠️ Tools & Platforms
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</div>
-
-</div>
-
+**🎯 Core Technologies**
 <br/>
+<p>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" style="margin: 5px;"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" style="margin: 5px;"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" style="margin: 5px;"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" style="margin: 5px;"/>
+</p>
 
+</td>
+<td align="center">
+
+**⚡ Frontend Mastery**
+<br/>
+<p>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" style="margin: 5px;"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🔧 Backend & Database**
+<br/>
+<p>
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50" style="margin: 5px;"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin: 5px;"/>
+</p>
+
+</td>
+<td align="center">
+
+**🤖 AI/ML & Tools**
+<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" style="margin: 5px;"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin: 5px;"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- Animated Progress Bars for Skills -->
+<div style="margin-top: 20px;">
+
+**🚀 Skill Proficiency**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-65%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
 ## 📊 Performance Analytics
 
 <div align="center">
